@@ -1,2 +1,3 @@
 # citein2015
-Desarrollo Colaborativo
+Repositorio de la conferencia dicatada en Universidad Mesoamericana, Quetzaltenango, noviembre 2015
+Herramientas para Desarrollo Colaborativo
